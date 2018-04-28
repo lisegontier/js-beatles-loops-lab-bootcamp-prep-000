@@ -5,16 +5,7 @@ const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 function theBeatlesPlay(musicians, instruments) {
   var array = [];
   for (let i = 0; i > 4; i++) {
-    console.log (${musicians} + "plays" + ${instruments})
-  };
-  
-}
-
-function johnLennonFacts(facts) {
-  
-}
-
-function iLoveTheBeatles(n) {
-  var n = [];
-  while
+    console.log('${musicians} + "plays" + ${instruments}');
+  }
+  return array;
 }
