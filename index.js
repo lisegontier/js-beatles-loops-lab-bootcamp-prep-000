@@ -1,3 +1,3 @@
-function tehBeatlesPlay(musicians, instruments) {
-  var
+function theBeatlesPlay(musicians, instruments) {
+  var arr
 }
