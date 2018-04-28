@@ -4,7 +4,7 @@ const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
 function theBeatlesPlay(musicians, instruments) {
   var array = [];
-  for (let i = 0; )
+  for (let i = 0; 1  )
 }
 
 function johnLennonFacts(facts) {
